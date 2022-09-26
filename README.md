@@ -13,7 +13,7 @@
 
 - 多模态算法
 
-  论文在
+  论文在[这里]([https://github.com/open-mmlab/mmdetection3d.git](https://github.com/HT-hlf/ht_3Ddetection/tree/master/doc))
 
   - autoalignv2
 
